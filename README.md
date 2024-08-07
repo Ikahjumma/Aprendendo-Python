@@ -1,2 +1,3 @@
 # Aprendendo-Python
-Exercicios e informações que estou aprendendo sobre a linguagem Python =D
+Exercicios e informeções sobre a linguagem Python =D
+Aprendendido no 3º semestre da Faculdade
